@@ -12,7 +12,9 @@ A curated list of amazingly awesome Grafana resources.
 * [Grouped Bar Chart Panel](https://github.com/gipong/grafana-groupedbarchart-panel) - grouped bar chart (stacked or side by side, horizontal or vertical)
 * [Multistat Panel](https://github.com/michaeldmoore/michaeldmoore-multistat-panel) - A smart table display panel with fixed, updating rows (or columns)
 * [Pie Chart Panel](https://github.com/grafana/piechart-panel)
-* [Worldmap Panel](https://github.com/grafana/worldmap-panel) - Worldmap panel plugin for Grafana that can be overlaid with circles for data points.
+* [Worldmap Panel](https://github.com/grafana/worldmap-panel) - Worldmap panel plugin for Grafana that can be overlaid with circles for data points
+* [“Hello World” panel using Angular](https://github.com/grafana/simple-angular-panel)
+* [“Hello World” panel using React](https://github.com/grafana/simple-react-panel)
 
 ## Datasource Plugins
 
